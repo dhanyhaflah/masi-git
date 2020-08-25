@@ -2,3 +2,5 @@ Belajar git
 membuat aplikasi sederhana
 aplikasi silsilah keluarga
 manajemen perputakaan sederhana
+melanjutkan aplikasi belajar
+membantu tim kominfo
