@@ -1,0 +1,7 @@
+buat aplikasi silsilah
+- tampilan seperti kamus
+- status dan panggilan dua orang
+- multi user/admin
+aplikasi katalog buku
+- conten buku
+- ulasan
