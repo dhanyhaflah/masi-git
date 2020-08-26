@@ -4,5 +4,8 @@ buat aplikasi silsilah
 - multi user/admin
 aplikasi katalog buku
 - conten buku
+  + nama penulis
+  + judul buku
+  + cover
 - ulasan
-- peminjaman
+
