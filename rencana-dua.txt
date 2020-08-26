@@ -1,7 +1,11 @@
 buat aplikasi silsilah
 - tampilan seperti kamus
+  + ganti arah
+  + dwi bahasa
 - status dan panggilan dua orang
+  + pakai foto
 - multi user/admin
+  + buat log in
 aplikasi katalog buku
 - conten buku
 - ulasan
