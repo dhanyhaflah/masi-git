@@ -8,4 +8,4 @@ aplikasi katalog buku
   + judul buku
   + cover
 - ulasan
-- peminjaman
+
